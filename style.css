@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    background-color: black;
+}
+header{
+    margin: 100px;
+    background-color: aqua;
+}
+
+div{
+    margin: 30vh 30vh;
+    background-color: palevioletred;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+
+    color: rgb(60, 70, 65);
+}
+
+
